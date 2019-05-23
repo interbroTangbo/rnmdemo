@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'rnmodulelib_Example' do
+  pod 'rnmodulelib', :path => '../'
+
+  target 'rnmodulelib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

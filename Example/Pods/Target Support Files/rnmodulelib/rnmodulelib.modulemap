@@ -1,0 +1,6 @@
+framework module rnmodulelib {
+  umbrella header "rnmodulelib-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "rnmodulelib",
+  "version": "0.1.0",
+  "summary": "A short description of rnmodulelib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tangbo_chn@interiorbrothers.com/rnmodulelib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tangbo_chn@interiorbrothers.com": "tang3188@icloud.com"
+  },
+  "source": {
+    "git": "/Users/Tang_Bo/Documents/平时练习/rnmodule/rnmodulelib",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "rnmodulelib/Classes/**/*"
+}

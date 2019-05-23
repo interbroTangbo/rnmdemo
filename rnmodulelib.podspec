@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'tangbo_chn@interiorbrothers.com' => 'tang3188@icloud.com' }
-  s.source           = { :git => 'https://github.com/tangbo_chn@interiorbrothers.com/rnmodulelib.git', :tag => s.version.to_s }
+  s.source           = { :path => '/Users/Tang_Bo/Documents/平时练习/rnmodule/rnmodulelib', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

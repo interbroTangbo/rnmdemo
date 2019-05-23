@@ -1,0 +1,16 @@
+PODS:
+  - rnmodulelib (0.1.0)
+
+DEPENDENCIES:
+  - rnmodulelib (from `../`)
+
+EXTERNAL SOURCES:
+  rnmodulelib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  rnmodulelib: 176eb934a5cead1c8bc0d3da41ce078164f3f192
+
+PODFILE CHECKSUM: 864354072bfda8715386cbcff4e6ae75007d61b5
+
+COCOAPODS: 1.5.3
